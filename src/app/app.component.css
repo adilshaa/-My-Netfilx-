@@ -1,0 +1,9 @@
+.navbar .navbar-brand{
+    color: #E50915;
+    font-size: 28px;
+    font-weight: bold;
+    margin-left: 20px;
+}
+ .navbar-nav .nav-item .nav-link{
+color: #E50915;
+ }

@@ -1,0 +1,40 @@
+
+.search{
+    z-index: 1;
+    position: static;
+}
+button
+{
+    background-color: #E50914;
+    color: #ffffff;
+    border-radius: 20px;
+}
+
+button:hover
+{
+    background-color: #E50914;
+    color: #ffffff;
+    border-radius: 20px;
+}
+.search input{
+    background-color: rgb(16, 14, 14);
+    color: #fff;
+    border: solid rgb(17, 16, 16) ;
+    outline: none;
+    box-shadow: none;
+    border-radius: 20px;
+    font-size: 15px;
+}
+
+img{
+    width: 100%;
+    cursor: pointer;
+}
+
+h5
+{
+    color: #ffffff;
+}
+.img img{
+    border-radius: 10px;
+}

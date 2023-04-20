@@ -1,0 +1,37 @@
+img{
+    width: 100%;
+    height: auto;
+    border-radius: 15px;
+}
+
+h1
+{
+    color: #ffffff;
+    font-weight: bold;
+}
+
+p{
+    color: #ffffff;
+}
+
+a{
+    background-color: #E50914;
+    color: #ffffff;
+    text-decoration: none;
+    outline: none;
+    box-shadow: none;
+}
+
+a:hover{
+    outline: none;
+    box-shadow: none;
+    background-color: #7e060a;
+    color: #ffffff;
+}
+
+.cast-dis h3{
+    font-size: 20px;
+}
+.cast-dis p{
+    color: #f81f2a;
+}
